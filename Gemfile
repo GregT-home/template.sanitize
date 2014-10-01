@@ -1,0 +1,13 @@
+source 'https://rubygems.org'
+
+gem 'rake', '~> 10.1'
+gem 'spinach', '~> 0.8.10'
+gem 'capybara', '~> 2.1.0'
+gem 'rspec', '~> 2.14.1'
+gem 'selenium-webdriver', '~> 2.37'
+gem 'ci_reporter'
+gem 'pry'
+gem 'pry-plus'
+gem 'axlsx'
+gem 'zip-zip'
+gem 'robovalidation', '~> 0.1.0'
